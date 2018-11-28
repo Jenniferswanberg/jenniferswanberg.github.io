@@ -1,6 +1,27 @@
+body {
+    font-family: 'Cutive Mono', monospace;
+}
+
+
+
+.bg-dark {
+    background-color: #CDAF3B!important;
+
+}
+.navbar-dark .navbar-brand {
+    color: black!important;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: black!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black!important;
+}
 .test {
     color: #cc0000;
 }
 .footer {
-    background-color: aquamarine;
+    background-color: #CDAF3B!important;
 }
